@@ -1,6 +1,8 @@
 /* write your override styles here */
 
-
+.tag-1 {
+  dipslay: none;
+}
 
 #wall #tag-2 {
   display: none;
